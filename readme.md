@@ -6,6 +6,9 @@
 
 <ul>
   <li>
+    <a href="https://github.com/devlucaslopes/02-jordan-shoes" target="_blank">#02 - Jordan Shoes</a>
+  </li>
+  <li>
     <a href="https://github.com/devlucaslopes/10-naped-blog" target="_blank">#10 - Naped blog</a>
   </li>
   <li>
