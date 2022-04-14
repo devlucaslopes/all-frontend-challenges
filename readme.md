@@ -31,6 +31,9 @@
   <li>
     <a href="https://github.com/devlucaslopes/20-porfolio" target="_blank">#20 - Portfolio</a>
   </li>
+  <li>
+    <a href="https://github.com/devlucaslopes/22-meus-projetos" target="_blank">#22 - Meus Projetos</a>
+  </li>
 </ul>
 
 <h3>Desafio de vagas</h3>
